@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5a0d443f.css",
-    "main.js": "/static/js/main.3cec709f.js",
+    "main.js": "/static/js/main.d6a6de14.js",
     "static/js/488.ba6c41dc.chunk.js": "/static/js/488.ba6c41dc.chunk.js",
     "static/media/banner1.png": "/static/media/banner1.355dcba7f656516c95cd.png",
     "static/media/blog (3).png": "/static/media/blog (3).79b3b5e1640c40b18ef5.png",
@@ -35,15 +35,15 @@
     "static/media/ConsumerElectronics.svg": "/static/media/ConsumerElectronics.9cd4528458ccf84b8f69cda312c477ea.svg",
     "static/media/FurnitureInsurance.svg": "/static/media/FurnitureInsurance.c4a75ffe0d4f414e57d08211ca0452e5.svg",
     "static/media/LogisticsandInsurance.svg": "/static/media/LogisticsandInsurance.a728093e0f0fab508cacca5e93a8c3d3.svg",
-    "index.html": "/index.html",
     "static/media/active.svg": "/static/media/active.5cfcdd375e1f743e049bba1b85802f66.svg",
     "static/media/Warranty.svg": "/static/media/Warranty.415fcad188e6c2b685c97a226373f0c8.svg",
+    "index.html": "/index.html",
     "main.5a0d443f.css.map": "/static/css/main.5a0d443f.css.map",
-    "main.3cec709f.js.map": "/static/js/main.3cec709f.js.map",
+    "main.d6a6de14.js.map": "/static/js/main.d6a6de14.js.map",
     "488.ba6c41dc.chunk.js.map": "/static/js/488.ba6c41dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0d443f.css",
-    "static/js/main.3cec709f.js"
+    "static/js/main.d6a6de14.js"
   ]
 }
