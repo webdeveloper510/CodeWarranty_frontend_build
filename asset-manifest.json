@@ -1,20 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.5a0d443f.css",
-    "main.js": "/static/js/main.276b7665.js",
+    "main.css": "/static/css/main.ae12e6e2.css",
+    "main.js": "/static/js/main.50c3353c.js",
     "static/js/488.ba6c41dc.chunk.js": "/static/js/488.ba6c41dc.chunk.js",
     "static/media/banner1.png": "/static/media/banner1.355dcba7f656516c95cd.png",
-    "static/media/blog (3).png": "/static/media/blog (3).79b3b5e1640c40b18ef5.png",
     "static/media/Mask group.png": "/static/media/Mask group.20b25f99d467c5507bef.png",
     "static/media/CompleteLifecycleManagement.png": "/static/media/CompleteLifecycleManagement.fac51ed627a2932619d4.png",
-    "static/media/blog (5).png": "/static/media/blog (5).592732c548a8f921cb53.png",
-    "static/media/blog (6).png": "/static/media/blog (6).feeb320698c90aa42194.png",
     "static/media/blog (8).png": "/static/media/blog (8).050f0321b965f4ec14ce.png",
-    "static/media/blog (4).png": "/static/media/blog (4).ba125c6bac71fa9d0f21.png",
-    "static/media/blog (1).png": "/static/media/blog (1).212bb57c92d384578daa.png",
-    "static/media/blog (9).png": "/static/media/blog (9).f3e8d3af488e1df598ba.png",
-    "static/media/blog (2).png": "/static/media/blog (2).a54e48bf24c8aa9d8a03.png",
-    "static/media/blog (7).png": "/static/media/blog (7).e1a12497f59e4db62b28.png",
     "static/media/Strengthen.png": "/static/media/Strengthen.43a849b1afa75c0a3690.png",
     "static/media/Automate.png": "/static/media/Automate.b59d10f0f0260b6610a5.png",
     "static/media/Resolve.png": "/static/media/Resolve.2b60d209559310e0ab49.png",
@@ -23,6 +15,7 @@
     "static/media/Onboard.png": "/static/media/Onboard.1cd972d717e7e8e3ffd7.png",
     "static/media/Return.png": "/static/media/Return.28af548470f7b48f9e84.png",
     "static/media/Unify.png": "/static/media/Unify.a7db56e70a459c8e3aff.png",
+    "static/media/404-error-page-templates.jpg": "/static/media/404-error-page-templates.89768c90de07d1310b96.jpg",
     "static/media/Group12.png": "/static/media/Group12.3ae8c25c5a028a72ec73.png",
     "static/media/video.png": "/static/media/video.3f316089b14aa1ae7aac.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
@@ -38,12 +31,12 @@
     "static/media/active.svg": "/static/media/active.5cfcdd375e1f743e049bba1b85802f66.svg",
     "static/media/Warranty.svg": "/static/media/Warranty.415fcad188e6c2b685c97a226373f0c8.svg",
     "index.html": "/index.html",
-    "main.5a0d443f.css.map": "/static/css/main.5a0d443f.css.map",
-    "main.276b7665.js.map": "/static/js/main.276b7665.js.map",
+    "main.ae12e6e2.css.map": "/static/css/main.ae12e6e2.css.map",
+    "main.50c3353c.js.map": "/static/js/main.50c3353c.js.map",
     "488.ba6c41dc.chunk.js.map": "/static/js/488.ba6c41dc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a0d443f.css",
-    "static/js/main.276b7665.js"
+    "static/css/main.ae12e6e2.css",
+    "static/js/main.50c3353c.js"
   ]
 }
